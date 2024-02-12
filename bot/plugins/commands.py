@@ -18,7 +18,7 @@ async def start_command(_, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text='Add me to chat', url=f'https://t.me/{om_react_bot}?startgroup=botstart')
+                    InlineKeyboardButton(text='Add me to chat', url=f'https://t.me/{/{Telegram.BOT_USERNAME}}?startgroup=botstart')
                 ],
                 [
                     InlineKeyboardButton(text='Developer✨', url='https://t.me/vibrantsamundra')
