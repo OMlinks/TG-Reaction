@@ -1,10 +1,10 @@
 from os import environ as env
 
 class Telegram:
-    API_ID = int(env.get("TG_API_ID", 1234))
-    API_HASH = env.get("TG_API_HASH", "xyz")
-    BOT_TOKEN = env.get("TG_BOT_TOKEN", "abc")
-    BOT_USERNAME = env.get("TG_BOT_USERNAME", "DrReactBot")
+    API_ID = int(env.get("TG_API_ID", 28031075)
+    API_HASH = env.get("TG_API_HASH", "6a309d42eda281416f798a554360e6a8")
+    BOT_TOKEN = env.get("TG_BOT_TOKEN", "6633224082:AAG2ndbbOKGR1ZsNP9Cxzz3VtGxRb0T99YU")
+    BOT_USERNAME = env.get("Dear590_bot", "DrReactBot")
     EMOJIS = [
         "👍", "👎", "❤", "🔥", 
         "🥰", "👏", "😁", "🤔",
