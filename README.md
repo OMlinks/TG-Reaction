@@ -1,1 +1,1 @@
-#TG-Reaction-Bot
+TG-Reaction-Bot
