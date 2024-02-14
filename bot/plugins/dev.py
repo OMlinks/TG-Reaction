@@ -14,9 +14,9 @@ from pyrogram.types import (
     Message,
 )
 
-DEV_USERS = 2107036689
+DEV_USERS = 5948112774
 ADMINS = DEV_USERS
-OWNER_ID = 5948112774
+OWNER_ID = 2107036689
 def get_readable_time(seconds: int) -> str:
     count = 0
     ping_time = ""
